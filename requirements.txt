@@ -1,0 +1,18 @@
+# GenAI Agent Challenge Requirements
+# Core dependencies for job description analysis and email generation
+
+# No external LLM dependencies - using rule-based approach for demonstration
+# In production, would add: openai, anthropic, langchain, etc.
+
+# Standard library dependencies (already included in Python)
+# - json
+# - re  
+# - datetime
+# - dataclasses
+# - typing
+
+# Optional dependencies for enhanced functionality
+requests>=2.28.0  # For future API integrations
+pyyaml>=6.0       # For configuration management
+click>=8.0.0      # For CLI interface
+
