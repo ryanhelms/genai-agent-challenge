@@ -1,0 +1,47 @@
+{
+  "job_summary": "## Position Overview\n**Role**: Vibe Coder-in-Residence (GenAI Tech EA)\n**Focus**: Shadow VP of Edge AI to build automated GenAI workflows and digital twin\n**Duration**: 6-month program with aggressive milestones\n\n## Key Timeline Milestones\n- Day 1-30: Observe \u2192 Automate: Pair-shadow meetings, Teams, doc reviews. Ship micro-agents that cut repeat tasks (think: LLM-powered agenda generator, decision-tracker bot).\n- Day 31-60: Scale \u2192 Compose: Chain agents together\u2014calendar optimizer calls the meeting-minute bot which feeds the action-item tracker. Instrument with telemetry; cut human touchpoints by >25 %. Build a microsite \"tech radar\" that maps VP's Deep Research notes into visible tech-trends radar. Build a \"team tracker\" agent to generate the weekly status radar for whole of VP's org.\n- Day 61-90: Externalize \u2192 Evangelize: Package best agents as internal templates. Produce a public demo or open-sourced repo; partner with Comms for media drops.\n- Month 4-6: Digital Twin v1: Fine-tune a personal-style LLM and mult-agent fabric that drafts briefs and strategic emails and technical articles indistinguishable from the VP. Formal Turing evaluation: randomize % past emails into twin vs. VP variants, have peers label author; shoot for \u2265 70 % confusion before iterating toward BLEU 0.75 goal.\n\n## Critical Requirements\n- Haves\n- Track record of shipping GenAI products in < 2 weeks cycles. Provide links or repos.\n- Mastery of GenAI and agent frameworks (Langchain, MCP etc).\n- Rapid full\n- stack micro\n\n## Success Metrics\n- 70% confusion before iterating toward BLEU 0\n- 5% production agents live by day 30\n- 30% reduction in VP calendar load by day 90\n- 2% external media features or conference demos by month 6\n",
+  "intro_email": "Subject: Welcome to the Future of AI-Powered Executive Operations\n\nDear Team,\n\nI'm excited to introduce an initiative that represents the next evolution of how we think about executive productivity and AI integration at our organization. As Vice President of Edge AI, I've been obsessing over a simple question: What if we could eliminate every friction point in executive workflows while simultaneously building the most advanced AI-powered digital assistant the industry has ever seen?\n\nThis isn't just about automation; it's about creating a living, breathing digital twin that can think, write, and strategize with the same precision and insight that drives our most critical decisions. We're not just solving our own problems\u2014we're creating the playbook that will transform how every executive in every industry operates.\n\nStarting immediately, our Coder-in-Residence will shadow every meeting, every document review, every strategic conversation. They'll identify patterns, capture decision-making frameworks, and ship micro-agents daily that eliminate repetitive tasks. This is more than a role\u2014it's a founding engineer position for the future of executive AI.\n\nThe metrics are non-negotiable: ship daily, measure everything, and optimize relentlessly. We'll track latency, adoption rates, and minutes saved with the same rigor we apply to our core product metrics. Because if we can't measure it, we can't improve it, and if we can't improve it, we're not moving fast enough.\n\nThe future of work isn't coming\u2014it's here. And we're going to show everyone exactly what it looks like. Let's ship something extraordinary.\n\nBest regards,\n[VP Name]\nVP of Edge AI\n\nP.S. If you're reading this and thinking \"this sounds impossible,\" you're exactly the kind of person we need. The impossible is just another word for \"not automated yet.\"\n",
+  "extracted_data": {
+    "timeline": [
+      "Day 1-30: Observe \u2192 Automate: Pair-shadow meetings, Teams, doc reviews. Ship micro-agents that cut repeat tasks (think: LLM-powered agenda generator, decision-tracker bot).",
+      "Day 31-60: Scale \u2192 Compose: Chain agents together\u2014calendar optimizer calls the meeting-minute bot which feeds the action-item tracker. Instrument with telemetry; cut human touchpoints by >25 %. Build a microsite \"tech radar\" that maps VP's Deep Research notes into visible tech-trends radar. Build a \"team tracker\" agent to generate the weekly status radar for whole of VP's org.",
+      "Day 61-90: Externalize \u2192 Evangelize: Package best agents as internal templates. Produce a public demo or open-sourced repo; partner with Comms for media drops.",
+      "Month 4-6: Digital Twin v1: Fine-tune a personal-style LLM and mult-agent fabric that drafts briefs and strategic emails and technical articles indistinguishable from the VP. Formal Turing evaluation: randomize % past emails into twin vs. VP variants, have peers label author; shoot for \u2265 70 % confusion before iterating toward BLEU 0.75 goal."
+    ],
+    "metrics": [
+      "70% confusion before iterating toward BLEU 0",
+      "5% production agents live by day 30",
+      "30% reduction in VP calendar load by day 90",
+      "2% external media features or conference demos by month 6"
+    ],
+    "must_haves": [
+      "Haves",
+      "Track record of shipping GenAI products in < 2 weeks cycles. Provide links or repos.",
+      "Mastery of GenAI and agent frameworks (Langchain, MCP etc).",
+      "Rapid full",
+      "stack micro",
+      "site builder (e.g. Vercel).",
+      "Comfortable pair",
+      "programming or pair",
+      "prompting in a fast",
+      "moving exec environment; ego",
+      "less, outcome",
+      "obsessed.",
+      "Storytelling chops\u2014can turn a changelog into a headline.",
+      "Time zone: The role is based out of San Jose (CA, USA) or Limerick (Ireland), but the applicant can work remotely and must be willing to work in whichever time zone the VP is in, mostly the CA time zone."
+    ],
+    "nice_to_haves": [
+      "to",
+      "Haves",
+      "Experience reverse",
+      "engineering personal workflows or building AI copilots.",
+      "Familiar with range of productivity hacks and how to code them as agents",
+      "Prior startup founding engineer (doesn't matter if company succeeeded) or hacker",
+      "in",
+      "residence cred.",
+      "Familiar with enterprise security & compliance for LLM rollouts."
+    ],
+    "extracted_at": "2025-06-20T11:06:36.882948"
+  },
+  "workflow_completed_at": "2025-06-20T11:06:36.882954"
+}
